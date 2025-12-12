@@ -16,11 +16,19 @@ It includes clean component structure, reusable UI parts, and responsive layouts
 
 ---
 
-## 📦 Setup Instructions
+## 🌟 Key Features Implemented
 
-Follow the steps below to run the project locally:
+- ✔️ Next.js App Router structure  
+- ✔️ Component-based architecture under `/src/app/components`  
+- ✔️ SVG icons integrated from `/public/assets`  
+- ✔️ Tailwind CSS for fast and clean styling  
+- ✔️ Clean layout structure (`layout.tsx`, `page.tsx`)  
+- ✔️ Reusable UI components  
+- ✔️ Semantic HTML and accessibility best practices  
 
-### 1️⃣ Clone the repository
-```bash
-git clone https://github.com/<your-username>/frontend-assignment.git
-cd frontend-assignment
+---
+
+## 📝 Assumptions Made
+
+- The provided design had missing details in spacing/colors, so reasonable defaults were chosen.  
+- No backend or API integration was required; the assignment focuses only on frontend UI.  
